@@ -1,0 +1,103 @@
+# Unity generated folders & caches
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+Recordings/
+
+# IDE & OS files
+.vs/
+.gradle/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+.DS_Store
+Thumbs.db
+
+# Large binaries & archives (> 49MB)
+*.apk
+*.aab
+*.obb
+*.zip
+*.rar
+*.7z
+*.tar.gz
+*.mov
+*.blend1
+*.tgz
+
+# Files >= 45MB filtered for GitHub
+AR-Telinga/3D Assets/telinga-luar-revisi.fbx
+AR-Telinga/3D Model/telinga.glb
+AR-Telinga/Blender/telinga.blend
+AR-Telinga/Blender/telinga.blend1
+AR-Telinga/Video/Full no cut.mov
+AR-Telinga/Video/Proses pendengaran/Proses pendengaran.mov
+AR-Telinga/AR-Telinga/Aplikasi/ARBIHear-10.apk
+AR-Telinga/AR-Telinga/Aplikasi/ARBIHear-11.apk
+AR-Telinga/AR-Telinga/Aplikasi/ARBIHear-12.apk
+AR-Telinga/AR-Telinga/Aplikasi/ARBIHear-13.apk
+AR-Telinga/AR-Telinga/Aplikasi/ARBIHear-14.apk
+AR-Telinga/AR-Telinga/Aplikasi/ARBIHear-8.apk
+AR-Telinga/AR-Telinga/Aplikasi/ARBIHear-9.apk
+AR-Telinga/AR-Telinga/Library/ArtifactDB
+AR-Telinga/AR-Telinga/Packages/com.ptc.vuforia.engine-11.1.3.tgz
+AR-Telinga/AR-Telinga/Library/PlayerDataCache/Android/Data/data.unity3d
+AR-Telinga/AR-Telinga/Library/PlayerDataCache/Android/Data/sharedassets8.resource
+AR-Telinga/AR-Telinga/Library/PackageCache/com.ptc.vuforia.engine@c33a8d5b6101/Vuforia/Plugins/OSXUniversal/universal/libVuforiaEngine.dylib
+AR-Telinga/AR-Telinga/Library/Bee/artifacts/objcopy_5lmi/libil2cpp.dbg.so
+AR-Telinga/AR-Telinga/Library/Bee/artifacts/objcopy_b9ry/libil2cpp.dbg.so
+AR-Telinga/AR-Telinga/Library/Bee/artifacts/Android/d8kzr/libil2cpp.so
+AR-Telinga/AR-Telinga/Library/Bee/artifacts/Android/iz17e/libil2cpp.so
+AR-Telinga/AR-Telinga/Library/Bee/artifacts/Android/il2cppOutput/build/arm64-v8a/libil2cpp.dbg.so
+AR-Telinga/AR-Telinga/Library/Bee/artifacts/Android/il2cppOutput/build/armeabi-v7a/libil2cpp.dbg.so
+AR-Telinga/AR-Telinga/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/data.unity3d
+AR-Telinga/AR-Telinga/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/sharedassets8.resource
+AR-Telinga/AR-Telinga/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/sharedassets9.resource
+AR-Telinga/AR-Telinga/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/local_aar_for_lint/release/out.aar
+AR-Telinga/AR-Telinga/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_assets/release/out/bin/Data/data.unity3d
+AR-Telinga/AR-Telinga/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_assets/release/out/bin/Data/sharedassets8.resource
+AR-Telinga/AR-Telinga/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_assets/release/out/bin/Data/sharedassets9.resource
+AR-Telinga/AR-Telinga/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/.transforms/91bcb1425f2d99818871b59ae08a01d4/transformed/out/assets/bin/Data/data.unity3d
+AR-Telinga/AR-Telinga/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/.transforms/91bcb1425f2d99818871b59ae08a01d4/transformed/out/assets/bin/Data/sharedassets8.resource
+AR-Telinga/AR-Telinga/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/.transforms/91bcb1425f2d99818871b59ae08a01d4/transformed/out/assets/bin/Data/sharedassets9.resource
+AR-Telinga/AR-Telinga/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/outputs/apk/release/launcher-release.apk
+AR-Telinga/AR-Telinga/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/compressed_assets/release/out/assets/bin/Data/data.unity3d.jar
+AR-Telinga/AR-Telinga/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/compressed_assets/release/out/assets/bin/Data/sharedassets8.resource.jar
+AR-Telinga/AR-Telinga/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/compressed_assets/release/out/assets/bin/Data/sharedassets9.resource.jar
+AR-Telinga/AR-Telinga/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/assets/release/bin/Data/data.unity3d
+AR-Telinga/AR-Telinga/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/assets/release/bin/Data/sharedassets8.resource
+AR-Telinga/AR-Telinga/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/assets/release/bin/Data/sharedassets9.resource
+AR-Telinga/AR-Telinga/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/assets/bin/Data/data.unity3d
+AR-Telinga/AR-Telinga/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/assets/bin/Data/sharedassets8.resource
+AR-Telinga/AR-Telinga/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/local_aar_for_lint/release/out.aar
+AR-Telinga/AR-Telinga/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_assets/release/out/bin/Data/data.unity3d
+AR-Telinga/AR-Telinga/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_assets/release/out/bin/Data/sharedassets8.resource
+AR-Telinga/AR-Telinga/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/.transforms/aaef8bdf9eef3c7a87037fc067dc2e24/transformed/out/assets/bin/Data/data.unity3d
+AR-Telinga/AR-Telinga/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/.transforms/aaef8bdf9eef3c7a87037fc067dc2e24/transformed/out/assets/bin/Data/sharedassets8.resource
+AR-Telinga/AR-Telinga/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/outputs/apk/release/launcher-release.apk
+AR-Telinga/AR-Telinga/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/compressed_assets/release/out/assets/bin/Data/data.unity3d.jar
+AR-Telinga/AR-Telinga/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/compressed_assets/release/out/assets/bin/Data/sharedassets8.resource.jar
+AR-Telinga/AR-Telinga/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/assets/release/bin/Data/data.unity3d
+AR-Telinga/AR-Telinga/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/assets/release/bin/Data/sharedassets8.resource
+AR-Telinga/AR-Telinga/Library/Artifacts/39/39f9ad12365cab77cc4505c0d801a8a9
+AR-Telinga/AR-Telinga/Library/Artifacts/55/55a04896a57dea0390dbe5e2886e06e1
+AR-Telinga/AR-Telinga/Assets/Video/Proses Pendengaran.mp4
+AR-Telinga/AR-Telinga/Assets/Video/Revisi/Video - compress/Full no cut.mp4
+AR-Telinga/AR-Telinga/Assets/Video/Revisi/Video - Mov/Full no cut.mov
+AR-Telinga/AR-Telinga/Assets/Video/Revisi/Video - mp4/Full no cut.mp4
+AR-Telinga/AR-Telinga/Assets/Video/Revisi/Video - mp4/Proses pendengaran/Proses pendengaran.mp4
+AR-Telinga/AR-Telinga/Assets/Video/Revisi/Video - Mov/Proses pendengaran/Proses pendengaran.mov
+AR-Telinga/AR-Telinga/Assets/Video/Compress/mp4/Proses/Compress_Proses.mp4
+AR-Telinga/AR-Telinga/Assets/SamplesResources/AugmentationAssets/Models/Astronaut.FBX
+AR-Telinga/AR-Telinga/Assets/3D Model/Telinga luar/telinga-luar-revisi.fbx

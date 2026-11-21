@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="revisimarkertelingabagianluar" size="1.000000 1.413265" />
+    <ImageTarget name="revisimarkertelingabagiandalam" size="1.000000 1.413265" />
+    <ImageTarget name="markertelingabagiantengah" size="1.000000 1.414067" />
+    <ImageTarget name="markertelingabagianluar" size="1.000000 1.413265" />
+    <ImageTarget name="markertelingabagiandalam" size="1.000000 1.413265" />
+    <ImageTarget name="markerstrukturtelinga" size="1.000000 1.414067" />
+  </Tracking>
+</QCARConfig>
